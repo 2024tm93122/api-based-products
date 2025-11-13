@@ -1,10 +1,5 @@
 # API-Based Products Assignment
 
-**Course**: SE*ZG504 - API-based Products  
-**Institution**: Birla Institute of Technology & Science, Pilani  
-**Semester**: First Semester 2025-2026  
-**Weightage**: 30%
-
 This repository contains the complete implementation of all three assignment questions.
 
 ## 📋 Assignment Overview
