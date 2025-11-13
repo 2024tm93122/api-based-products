@@ -1,0 +1,6 @@
+Machine learning is a subset of artificial intelligence that focuses on the development of algorithms and statistical models. It involves training models on data to make predictions without being explicitly programmed.
+
+Deep learning uses neural networks with multiple layers to learn complex patterns. These networks are inspired by the human brain, with interconnected nodes that process information.
+
+Natural language processing (NLP) is an important area of AI that deals with the interaction between computers and human language. It enables machines to understand and generate human language.
+
