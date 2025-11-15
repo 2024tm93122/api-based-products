@@ -252,30 +252,6 @@ curl http://localhost:5001/api/stats
 
 ---
 
-## 📸 Screenshots Required
-
-For your assignment submission, capture screenshots of:
-
-### Question 1:
-1. Streamlit app interface
-2. Plagiarism detection results
-3. Highlighted matching text segments
-4. Model training output
-
-### Question 2:
-1. Kong Admin API status
-2. Rate limiting test (429 error after 5 requests)
-3. Request size limiting test (413 error for large payload)
-4. Kong configuration (services and plugins)
-
-### Question 3:
-1. Token Bucket algorithm output
-2. Leaky Bucket algorithm output
-3. Comparison demo results
-4. API server rate limiting responses
-
----
-
 ## 🔧 Troubleshooting
 
 ### Question 1 Issues:
