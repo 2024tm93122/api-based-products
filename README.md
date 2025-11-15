@@ -325,20 +325,7 @@ All code is well-documented and ready for submission. Key files to include in yo
 3. **Question 3**: `rate_limiting/token_bucket.py`, `rate_limiting/leaky_bucket.py`
 
 ---
-
-## ✅ Assignment Checklist
-
-- [x] Question 1: Plagiarism Checker (Streamlit + Flask versions)
-- [x] Question 2: Kong API Gateway setup and configuration
-- [x] Question 3: Token Bucket and Leaky Bucket implementations
-- [x] Sample data files
-- [x] Comprehensive documentation
-- [x] Test scripts
-- [x] README files
-
 ---
-
-## 📧 Support
 
 For any issues or questions, refer to the individual README files in each question's directory:
 - `plagiarism_checker/` - Question 1 details
